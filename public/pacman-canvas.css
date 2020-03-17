@@ -96,13 +96,13 @@ tr:hover {
 #myCanvas { border: none; display: block; background: red; width: 100%;  height: auto;}
 #canvas-container { 
     position: relative;
-    width: 800px;
+    width: 1000px;
 }
 #canvas-overlay-container {
     position: absolute;
     background: rgba(0,0,0,0.7);
     height: 100%;
-    width: 800px;
+    width: 1000px;
     max-width: 100%;
 }
 #canvas-overlay-content {
@@ -112,7 +112,7 @@ tr:hover {
     margin-top: 0;
     max-width: 100%;
     text-align: center;
-    width: 540px;
+    width: 1000px;
     max-width: 100%;
     }
 #canvas-overlay-content #title {
@@ -122,10 +122,10 @@ tr:hover {
 
 .canvas { position:absolute; padding-top: 20px;}
 .main {margin: 10px auto; position: static; left: auto;}
-.content { width: 100%; max-width: 800px; text-align: left; margin: 0;}
+.content { width: 100%; max-width: 1000px; text-align: left; margin: 0;}
 .container {text-align: center; margin:0; padding: 0;}
 .wrapper { padding:0;}
-.game  { max-width: 800px; margin: auto; }
+.game  { max-width: 1000px; margin: auto; }
 
 .about { font-size: 10px; margin-top: 20px; text-align: center; display: none;}
 
@@ -147,7 +147,7 @@ audio {display: block; }
 .controls { 
     text-align: center; 
     margin-top: 15px;
-    width: 800px;
+    width: 1000px;
 }
 .controls-section {
     height: auto;
